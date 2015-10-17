@@ -4,3 +4,4 @@ BinDeps
 Compat
 LightGraphs
 @windows WinRPM
+@osx Homebrew
